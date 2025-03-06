@@ -31,6 +31,10 @@ This repository contains structured SQL queries and analyses for various real-wo
   - Retriving specific records
   - Book counting
   - Droping table and database
+
+   ### 4. Employee Salary Analysis
+- **Description:** SQL script designed to analyze employee salaries and monthly revenue trends using advanced SQL window functions. The script includes queries for computing revenue insights, ranking employee salaries by title, calculating running totals, and evaluating salary differences based on gender. It also features temporary table creation, partitioned aggregations, and ordering techniques to enhance data-driven decision-making.
+  
 ---
 
 ## 🛠 Tools Used
